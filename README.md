@@ -1,15 +1,15 @@
 # Hi, I'm Junior Gerome 👋
 
-### Junior Full Stack Developer | Java • Spring Boot • Angular
+### Développeur Full Stack Junior | Java • Spring Boot • Angular
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Developer;Angular+%7C+TypeScript+Developer;Building+useful+web+applications;Learning+and+improving+every+day](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Java+%7C+Spring+Boot+Developer;Angular+%7C+TypeScript+Developer;Building+useful+web+applications;Learning+and+improving+every+day)" alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Developer;Angular+%7C+TypeScript+Developer;Building+useful+web+applications;Learning+and+improving+every+day" alt="Typing SVG" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Location-Cameroon-blue](https://img.shields.io/badge/Location-Cameroon-blue)" alt="Cameroon" />
-&#x20; \<img src="[https://img.shields.io/badge/Focus-Full%20Stack%20Development-2ea44f](https://img.shields.io/badge/Focus-Full%20Stack%20Development-2ea44f)" alt="Full Stack Development" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Cameroon-blue" alt="Location: Cameroon" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2ea44f" alt="Focus: Full Stack Development" />
+</p>
 
 ---
 
