@@ -128,36 +128,34 @@ A learning project exploring Caesar, Vigenère and Hill classical encryption alg
 
 ## 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=junior-gerome&show_icons=true&theme=dark&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=junior-gerome\&show_icons=true\&theme=dark\&include_all_commits=true)" alt="Junior Gerome GitHub statistics" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=junior-gerome&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-gerome\&layout=compact\&theme=dark)" alt="Most used programming languages" />
-\</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=junior-gerome&show_icons=true&theme=dark&include_all_commits=true" alt="Junior Gerome GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-gerome&layout=compact&theme=dark" alt="Most used programming languages" />
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://git.io/streak-stats](https://git.io/streak-stats)">
-&#x20;   \<img src="[https://github-readme-streak-stats.herokuapp.com?user=junior-gerome&theme=dark](https://github-readme-streak-stats.herokuapp.com?user=junior-gerome\&theme=dark)" alt="GitHub Streak" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=junior-gerome&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/junior-gerome](https://github.com/junior-gerome)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/junior-gerome/](https://www.linkedin.com/in/junior-gerome/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
-&#x20; \</a>
-\</p>
+<p align="left">
+  <a href="https://github.com/junior-gerome">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/junior-gerome/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Great software is built through continuous learning, discipline, and practice."\</i>
-\</p>
+<p align="center">
+  <i>"Great software is built through continuous learning, discipline, and practice."</i>
+</p>
 
-\<p align="center">
-&#x20; ⭐ Thanks for visiting my profile!
-\</p>
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
